@@ -26,11 +26,11 @@ Retorna uma substring de uma String. O índice do início é inclusivo (o caract
 
 [float]
 === Parâmetros
-`minhaString`: a variable of type String
+`minhaString`: uma variável do tipo String (a variable of type String)
 
-`inicio`: o índice no qual começar a substring (inclusivo)
+`inicio`: o índice no qual começar a substring (obrigatório)
 
-`fim` (optional): o índice no qual terminar a substring (exclusivo)
+`fim` (opcional): o índice no qual terminar a substring (exclusivo)
 
 
 [float]
